@@ -336,4 +336,18 @@ section#interests .interest-content p {
     color: #76787a;
 }
 
+.rights {
+    color: #76787a;
+    text-align: center;
+    margin-left: 250px;
+}
+
+@media (max-width: 768px) {
+    .rights {
+        margin-left: 1rem;
+    }
+}
+
+
+
 
